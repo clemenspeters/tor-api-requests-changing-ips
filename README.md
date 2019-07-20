@@ -1,4 +1,9 @@
 # Web scraping with tor and different IPs
+
+This is just an example how to make api requests from changing IP addresses.<br>
+To use it just customize the script to make your own requests.<br>
+This is just a technical prove of concept and may only be used in any illigal context.
+
 ## Sources / Credits: 
 - https://boredhacking.com/tor-webscraping-proxy/
 - https://medium.com/@jasonrigden/using-tor-with-the-python-request-library-79015b2606cb
